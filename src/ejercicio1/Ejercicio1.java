@@ -13,7 +13,7 @@ public class Ejercicio1 {
 	private static Scanner teclado = new Scanner(System.in);
 	
 	//Cambio del alumno 2 (Diego Mancera Rodriguez)
-	//Cambio del alumno 1 (AbelMejias)
+	//Cambio del alumno 1 (Abel Mejias)
 	
 	public static void main(String[] args) {
 		// Variables
